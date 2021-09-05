@@ -1,1 +1,1 @@
-This is an assignment for the Component-Based Software Development class. 
+The scoreoberserver is an assignment for the Component-Based Software Development class.
